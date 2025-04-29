@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Fitness dashboard.png" alt="Alt text" width="300"/>
+  <img src="assets/Fitness dashboard.png" width="300"/>
 </p>
 
 This repository consists of a dashboard that tracked my fitness journey from Feb-Jun 2023. It's important to note that I am 171 cm or 5'8"
