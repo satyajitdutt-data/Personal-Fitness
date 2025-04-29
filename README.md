@@ -1,4 +1,4 @@
-![Fitness dashboard](https://github.com/satyajitdutt-data/Personal-Fitness/assets/144555009/cbe3f23b-f2d5-4180-b553-55f61874707f)
+![Fitness dashboard](Fitness_dashboard.png)
 
 This repository consists of a dashboard that tracked my fitness journey from Feb-Jun 2023. It's important to note that I am 171 cm or 5'8"
 so the caloric intake was in proportion to my height when it came to fat loss.
