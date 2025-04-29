@@ -1,4 +1,4 @@
-![Screenshot of the app](Fitness_dashboard.png)
+![Fitness dashboard](assets/dashboard.jpg)
 
 
 This repository consists of a dashboard that tracked my fitness journey from Feb-Jun 2023. It's important to note that I am 171 cm or 5'8"
