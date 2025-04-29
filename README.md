@@ -1,5 +1,6 @@
-![Screenshot of the app](Fitness_dashboard.png)
-
+<p align="center">
+  <img src="Fitness_dashboard.png" alt="Screenshot of the app" width="600" />
+</p>
 
 This repository consists of a dashboard that tracked my fitness journey from Feb-Jun 2023. It's important to note that I am 171 cm or 5'8"
 so the caloric intake was in proportion to my height when it came to fat loss.
