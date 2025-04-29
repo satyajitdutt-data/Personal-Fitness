@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="Fitness_dashboard.png" alt="Screenshot of the app" width="1000" />
 </p>
 
